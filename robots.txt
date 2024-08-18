@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nighemis.github.io/sitemap.html.gz
+Sitemap: https://nighemis.github.io/app/sitemap.html.gz
+Sitemap: https://nighemis.github.io/assets/sitemap.html.gz
+Sitemap: https://nighemis.github.io/css/sitemap.html.gz
+Sitemap: https://nighemis.github.io/includes/sitemap.html.gz
+Sitemap: https://nighemis.github.io/item/sitemap.html.gz
+Sitemap: https://nighemis.github.io/src/sitemap.html.gz
